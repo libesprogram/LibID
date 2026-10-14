@@ -1,1 +1,6 @@
 
+{
+  "blocked_ids": [],
+  "machines": {}
+}
+
