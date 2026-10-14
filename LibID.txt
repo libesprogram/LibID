@@ -1,6 +1,6 @@
-
 {
   "blocked_ids": [],
-  "machines": {}
+  "machines": {
+    "acfa3f81-3ba2-4ad9-a163-bf6de2b69fbd": "acfa3f81-3ba2-4ad9-a163-bf6de2b69fbd"
+  }
 }
-
